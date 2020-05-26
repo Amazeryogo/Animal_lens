@@ -18,4 +18,4 @@ As of 26 may 2020 , there is no plan of release in the near 3 to 6 months but yo
 [Repository](https://github.com/Amazeryogo/Animal_lens/tree/master)
 
 
-# Made by Amazeryogo
+#Made by Amazeryogo
