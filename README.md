@@ -1,4 +1,4 @@
-### Animal lens
+# Animal lens
 Have you ever thought what a pile of python code and couple of text files do? Meet : Animal lens . Animal lens is a python code that helps you learn facts and information about the animals all around you. 
 
 ## What is so special about Animal lens?
@@ -17,4 +17,4 @@ As of 26 may 2020 , there is no plan of release in the near 3 to 6 months but yo
 [Repository](https://github.com/Amazeryogo/Animal_lens/tree/master)
 
 
-# Made by Amazeryogo
+### Made by Amazeryogo
