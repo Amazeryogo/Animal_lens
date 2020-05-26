@@ -1,15 +1,9 @@
 ## Animal lens
+Have you ever thought what a pile of python code and couple of text files do? Meet : Animal lens . Animal lens is a python code that helps you learn facts and information about the animals all around you. 
 
-You can use the [editor on GitHub](https://github.com/Amazeryogo/Animal_lens/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+### What is so special about Animal lens?
+Animal lens allows people to learn and understand animal life just by talking to a bot. and plus you can edit files just by opening a Command line(not terminal , there is a special command line in animal lens code) and not by searching through million of lines of code.
+The Command line uses a programming language just for it . It's called Animal_Lens_Script or ALSpanda. 
 
 # Header 1
 ## Header 2
