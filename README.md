@@ -1,8 +1,9 @@
 ### Animal lens
 Have you ever thought what a pile of python code and couple of text files do? Meet : Animal lens . Animal lens is a python code that helps you learn facts and information about the animals all around you. 
-
+## Can I interchange the code?
+yes! you can change the code just the way you want your animal lens should work like.
 ## What is so special about Animal lens?
-Animal lens allows people to learn and understand animal life just by talking to a bot. and plus you can edit files just by opening a Command line(not terminal , there is a special command line in animal lens code) and not by searching through million of lines of code.
+Animal lens allows people to learn and understand animal life just by talking to a bot.learn about lions and tarantulas . Even strange animals star here like Duck billed platipus. And plus you can edit facts just by opening a Command line(not terminal , there is a special command line in animal lens code) and not by searching through million of lines of code.
 The Command line uses a programming language just for it . It's called Animal_Lens_Script or ALSpanda. 
 
 ## How do I learn ALSpanda?
