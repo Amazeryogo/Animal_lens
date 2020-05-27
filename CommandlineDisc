@@ -9,7 +9,7 @@ It's own language! animal_lens_script(ALSpanda) is used in this command line.
 Here are some really functioning bets:
 .True                                            - for yes(or True)
 .False                                           - for no (or False)
-.Change((Fact))                                  - To change a fact( write a new one)
+.Change((Fact))                                  - To change a fact( write a new one)(you have write .Open<filename>)
 .GBTQW                                           - Go Back To Question Window.
 >>C9<<                                           - To break code
 $*$                                              - opens up Red Zone line ( you can write in english instead of ALSpanda)
