@@ -20,3 +20,5 @@ As of 26 may 2020 , there is no plan of release in the near 3 to 6 months but yo
 
 #Made by Amazeryogo
 see my wiki :[wiki](https://github.com/Amazeryogo/Animal_lens/wiki)
+
+To see my profile : [Amazeryogo](https://github.com/Amazeryogo)
