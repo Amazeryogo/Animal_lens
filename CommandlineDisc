@@ -15,6 +15,7 @@ Here are some really functioning bets:
 $*$                                              - opens up Red Zone line ( you can write in english instead of ALSpanda)
 ++note that you have to download Animal lens: RZL support to use it++
 ++, //... , error()                              - bets(printed) given by computer
+.Open<filename>                                  - to show the contents of a file(you have to write the name of the file in <>)
 
 What is Question Window?
 It basically allows you to talk to the Animal_Lens_Bot
