@@ -8,8 +8,7 @@ The Command line uses a programming language just for it . It's called Animal_Le
 
 ## How do I learn ALSpanda?
 
-For more details see [ALSpanda](https://github.com/Amazeryogo/Animal_lens/blob/master/CommandlineDisc).
-
+You can  see my ALS panda repository's wiki to learn more [wiki](https://github.com/Amazeryogo/ALSpanda-Devlopment/wiki)
 ## What is the ALSpanda based on?
 ALSpanda is based purely on python and not on any other language
 
